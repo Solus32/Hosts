@@ -1,0 +1,6 @@
+#
+# Bloqueador de Notificaciones Push en Google Chrome
+#
+
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 pushance.com
