@@ -150,17 +150,17 @@ animeyt.tv###ADSPC
 animeyt.tv##.ed-container.bloques-descargas
 mkvcage.ws##.textwidget.custom-html-widget
 m.fanfox.net##.mobile-banner
-xvideos.com##.x-message.x-message-info
-xvideos.com##.icon-f.icf-info-circle
-xvideos.com##.ic
-xvideos.com###ad-tower-div
-xvideos.com##.mobile-hide
 nensaysubs.net###g207
 msguides.com##.JaedeihRUmsT-default
 msguides.com##.JaedeihRUmsT-bg
 m.fanfox.net###edShow
 rickyromeropro.blogspot.com###g207
 mangatown.com###edShow
+horriblesubs.info##.rls-sponsor.text-center
+lhscan.net###sbottom
+lhscan.net##.mobile_hidden
+lhscan.net###hide_float
+m.fanfox.net##div[style="position: absolute; top: 0px; left: 0px; width: 35px; height: 35px; z-index: 3; background: url(\"//ad.sitemaji.com/static/close_circle.png\") 0% 0% / contain no-repeat content-box; padding: 5px; box-sizing: border-box; color: rgb(255, 255, 255); cursor: pointer;"]
 ||1000fondosescritorio.com/msn/*
 ||46.105.108.2/miamiglobalradio.com/mediaplayer/*
 ||7000fotos.com/images/*
@@ -346,3 +346,9 @@ mangatown.com###edShow
 ||3.bp.blogspot.com/-VTm7dg_VWtM/Uwm0vrF7-NI/AAAAAAAAAn8/Hx6BcqZ6wwE/s1600/gomenasai.png
 ||css122us.cdndm5.com/v201812291704/mangazone/images/pc-bg-2.png
 ||css122us.cdndm5.com/v201812291704/mangazone/images/pc-bg-2-mangatown.png
+||horriblesubs.info/images/b/PikachuBE.jpg
+||horriblesubs.info/images/b/ValentineSE.jpg
+||horriblesubs.info/images/b/MagazineSE.jpg
+||horriblesubs.info/images/b/MagazineBE.jpg
+||horriblesubs.info/images/b/*.jpg
+||comic.kukudm.com/xm/mm.html?s=bottom_bottom
