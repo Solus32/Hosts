@@ -1,46 +1,9 @@
-ces.cnet.com###espanolPromo
-ces.cnet.com###modalOverlay
-ces.cnet.com##.espanol
-ces.cnet.com##.formHead
-ces.cnet.com##.globalModal
-cnettv.cnet.com###espanolPromo
-cnettv.cnet.com###modalOverlay
-cnettv.cnet.com##.espanol
-cnettv.cnet.com##.formFooter
-cnettv.cnet.com##.globalModal
-howto.cnet.com###espanolPromo
-howto.cnet.com###modalOverlay
-howto.cnet.com##.espanol
-howto.cnet.com##.globalModal
-news.cnet.com###espanolPromo
-news.cnet.com###modalOverlay
-news.cnet.com##.espanol
-news.cnet.com##.formFooter
-news.cnet.com##.formHead
-news.cnet.com##.globalModal
-iphoneate.com###hstp-bg-overlay
-iphoneate.com###hstp_5279_interstitial
 mimorelia.com###bannerPortadaDerecho
 mimorelia.com###hype-obj-0qa9lb1UtuD6XCnU
 mimorelia.com##.HYPE_element
 mimorelia.com##.banner-top
-reviews.cnet.com###espanolPromo
-reviews.cnet.com###modalOverlay
-reviews.cnet.com##.espanol
-reviews.cnet.com##.formFooter
-reviews.cnet.com##.globalModal
 tangasmix.com###topbar
 tangasmix.com##p[style="margin-top:0px; margin-bottom:0px; margin-left:2px; margin-right:2px;"]
-www.cnet.com###espanolPromo
-www.cnet.com###flyoutPromo
-www.cnet.com###modalOverlay
-www.cnet.com##.espanol
-www.cnet.com##.espanol-promo
-www.cnet.com##.globalModal
-www.cnet.com##.modal
-www.cnet.com##.modal-backdrop
-www.cnet.com##.modal-content
-www.cnet.com##.show
 s170.photobucket.com##.registerImage
 thehackernews.com##.underlay
 thehackernews.com##.modal
@@ -57,13 +20,6 @@ tangasmix.com###q
 tangasmix.com##.cabecera1x
 jkanime.net##.feed_box
 jkanime.net##.publibox
-iphoneate.com###sbGraphCanvas1
-iphoneate.com##.sbGraphCanvas
-iphoneate.com###chatBoxSmall
-iphoneate.com##.singleAdsText
-iphoneate.com###networkBar
-iphoneate.com##.jp-gui.jp-interface
-iphoneate.com##.sbGraphInfo.sbTip
 griffintechnology.com###modal-newsletter-signup
 griffintechnology.com##.modal.in
 griffintechnology.com##.modal-backdrop.in
@@ -88,9 +44,6 @@ tangasxxx.net##.header
 tangasxxx.net##.fotoder
 tangasxxx.net##.social
 tangasxxx.net##.footer
-cnet.com###leader-top-57ab8086d766e
-cnet.com##.ad-leader-top
-cnet.com##.videoPlaylist
 thehackernews.com##.clear.head-head
 quadratin.com.mx##.left-notification
 quadratin.com.mx##.middle-notification
@@ -134,7 +87,6 @@ readms.net##.auth-guest.side-nav.bitcoin-msg
 spoiler.net##.hidden-xs.hidden-sm.pull-right.spoiler-top
 spoiler.net##.home-side.pull-right
 eporner.eu##.vjs-inplayer-container
-cnet.com##.inviewElement.dock.entered
 pinterest.com.mx##.FullPageModal__scroller
 pinterest.com.mx##div[style="background-color: rgba(0, 0, 0, 0.6); opacity: 1; position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; z-index: 1000;"]
 pinterest.com.mx##div[style="background-color: rgba(239, 239, 239, 0.96); opacity: 1; position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; z-index: 1000; cursor: zoom-out;"]
@@ -145,7 +97,6 @@ yts.am##a[style="position: fixed; z-index: 78947585; width: 99%; height: 99%; to
 m.fanfox.net##span[style="position: absolute; top: -20px; right: 0px; width: 40px; height: 40px; z-index: 99999; background: url(\"//ad.sitemaji.com/static/close_circle.png\") 0% 0% / contain no-repeat; color: rgb(255, 255, 255); cursor: pointer;"]
 m.fanfox.net##div[style="position: absolute; z-index: 1; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5);"]
 m.fanfox.net##.sitemaji_inters
-cnet.com##.col-4
 animeyt.tv###ADSPC
 animeyt.tv##.ed-container.bloques-descargas
 mkvcage.ws##.textwidget.custom-html-widget
@@ -236,9 +187,6 @@ m.fanfox.net##div[style="position: absolute; top: 0px; left: 0px; width: 35px; h
 ||imagenes.cumlouder.com/iframes_thumbs/viviendoconunapornostar/vp18/*
 ||imagenes.cumlouder.com/iframes_thumbs/viviendoconunapornostar/vp21/*
 ||images2.orgasmatrix.com/spon/*
-||iphoneate-help-you.chatango.com^
-||iphoneate.com/wp-content/themes/iphoneaveV2/images/core/*
-||iphoneate.com/wp-content/uploads/2012/07/*
 ||jd.revolvermaps.com^
 ||miamiglobalradio.com/mediaplayer/*
 ||miamiglobalradio.com/wp-content/themes/miamiglobalradio.com/images/core/*
