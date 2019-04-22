@@ -112,6 +112,10 @@ lhscan.net###sbottom
 lhscan.net##.mobile_hidden
 lhscan.net###hide_float
 m.fanfox.net##div[style="position: absolute; top: 0px; left: 0px; width: 35px; height: 35px; z-index: 3; background: url(\"//ad.sitemaji.com/static/close_circle.png\") 0% 0% / contain no-repeat content-box; padding: 5px; box-sizing: border-box; color: rgb(255, 255, 255); cursor: pointer;"]
+redeszone.net###NEWS_BODY
+redeszone.net##.visible-md-block.visible-lg-block
+m.fanfox.net##.sitemaji_banner
+m.fanfox.net###new-mask
 ||1000fondosescritorio.com/msn/*
 ||46.105.108.2/miamiglobalradio.com/mediaplayer/*
 ||7000fotos.com/images/*
@@ -300,3 +304,9 @@ m.fanfox.net##div[style="position: absolute; top: 0px; left: 0px; width: 35px; h
 ||horriblesubs.info/images/b/MagazineBE.jpg
 ||horriblesubs.info/images/b/*.jpg
 ||comic.kukudm.com/xm/mm.html?s=bottom_bottom
+||redeszone.net/app/themes/mykonos-child/assets/img/block_stop.png
+||tenmanga.com/novelall.html?s=middle
+||tenmanga.com/novelall.html?s=top_1
+||static.fanfox.net/v2019120111112/mangafoxmobile/images/index-bottom-win.png
+||static.fanfox.net/v2019120111112/mangafoxmobile/images/index-top-fix.png
+||static.fanfox.net/v20190329105111/mangafoxmobile/images/new-win.png
