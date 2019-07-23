@@ -6,6 +6,7 @@ geni.us # url shortener
 horriblesubs.info
 horriblesubs.se
 nyaa.si
-bit.ly
-shorturl.at
-bit.do
+bit.ly # url shortener
+shorturl.at # url shortener
+bit.do # url shortener
+cutt.ly # url shortener
