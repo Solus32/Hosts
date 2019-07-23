@@ -10,3 +10,4 @@ bit.ly # url shortener
 shorturl.at # url shortener
 bit.do # url shortener
 cutt.ly # url shortener
+tiny.cc # url shortener
