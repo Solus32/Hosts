@@ -305,3 +305,8 @@ instagram.com##.RnEpo.Yx5HN
 ||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner-ValorPersona*.jpg$image
 www.mimorelia.com###tdi_7_257
 
+! 6/2/2020 https://www.debate.com.mx
+www.debate.com.mx##.boxpush__cancel
+www.debate.com.mx##.active.boxpush > .boxpush__title
+www.debate.com.mx##.active.boxpush
+
