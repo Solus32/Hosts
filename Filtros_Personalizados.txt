@@ -316,3 +316,6 @@ elementary.io##.toast.overlay__content
 ! 13/2/2020 https://loveheaven.net
 loveheaven.net##a.visible.glx-teaser:nth-of-type(1)
 loveheaven.net##a.visible.glx-teaser:nth-of-type(2)
+
+! 13/2/2020 https://tmofans.com
+||tmofans.com/images/quieroMemes.gif$image
