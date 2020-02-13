@@ -310,3 +310,9 @@ www.debate.com.mx##.boxpush__cancel
 www.debate.com.mx##.active.boxpush > .boxpush__title
 www.debate.com.mx##.active.boxpush
 
+! 8/2/2020 https://elementary.io
+elementary.io##.toast.overlay__content
+
+! 13/2/2020 https://loveheaven.net
+loveheaven.net##a.visible.glx-teaser:nth-of-type(1)
+loveheaven.net##a.visible.glx-teaser:nth-of-type(2)
