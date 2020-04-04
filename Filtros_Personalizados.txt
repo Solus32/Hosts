@@ -319,3 +319,13 @@ loveheaven.net##a.visible.glx-teaser:nth-of-type(2)
 
 ! 13/2/2020 https://tmofans.com
 ||tmofans.com/images/quieroMemes.gif$image
+
+! 20/3/2020 https://www.jornada.com.mx
+www.jornada.com.mx###adv_top_left
+www.jornada.com.mx###Right1
+||www.ultimedia.com/deliver/generic/iframe?mdtk=09698701&zone=13&type_player=0&sendstats=0&src=pkr0mx&width=438&height=280&urlfacebook=https%3A%2F%2Fwww.jornada.com.mx%2Fultimas%2Feconomia%2F2020%2F03%2F19%2Fliderazgo-de-huawei-evidencia-distanciamiento-tecnologico-de-eu-2904.html&ad=1&autoplay=yes&fstart=1&title=Protestas+en+Francia+contra+el+consumismo+del+%27Black+Friday%27&endMessage=um_ultimedia_wrapper_ultimediaEndRoll&widgetPrefix=um_ultimedia_wrapper_&tagparam=&tagparamdecoded=&visible=&gdprconsentstring=$subdocument
+www.jornada.com.mx###Right2
+
+! 2/4/2020 https://distrowatch.com
+||distrowatch.com/i/k/wztwsmsa$image
+
