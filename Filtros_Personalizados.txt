@@ -300,6 +300,7 @@ instagram.com##.RnEpo.Yx5HN
 ! 23/1/2020 https://www.mimorelia.com
 ||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_UVAQ2020_Compress.gif$image
 ||www.mimorelia.com/wp-content/uploads/2015/12/14/bannerInmuebles_130.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/bannerInmuebles_*.gif$image
 ||www.mimorelia.com/wp-content/uploads/2017/05/16/300x130-3.jpg$image
 ||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_Alfaomega_1028.gif$image
 ||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner-ValorPersona*.jpg$image
@@ -328,4 +329,64 @@ www.jornada.com.mx###Right2
 
 ! 2/4/2020 https://distrowatch.com
 ||distrowatch.com/i/k/wztwsmsa$image
+
+! 6/4/2020 https://www.mimorelia.com
+||www.mimorelia.com/wp-content/uploads/2020/04/05/banner_ISSSTE_Covid-19.jpg$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/bannerUVAQ300x120.jpg$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/bannerUVAQ700x90*.jpg$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/banner_MarzoPJM.jpg$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/banner_itm.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/AhorradorLuz.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_AlfaOmega_0225.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_AlfaOmega*.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_altozanoAbril*.png$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_altozano*.png$image
+||www.mimorelia.com/wp-content/uploads/2018/11/28/suscribeimage.jpg$image
+www.mimorelia.com##.clear
+www.mimorelia.com###mc_embed_signup
+
+! 6/4/2020 https://www.quadratin.com.mx
+||www.quadratin.com.mx/www/wp-content/uploads/2020/02/GIF_APEAM_3.gif$image
+||www.quadratin.com.mx/www/wp-content/uploads/2020/04/examen-en-linea-UVAQ-336X280-PX-1.jpg$image
+||www.quadratin.com.mx/www/wp-content/uploads/2019/11/Quadratin-UNIMO-Banner-3.png$image
+||www.quintanaroo.quadratin.com.mx/www/wp-content/uploads/2020/03/CG-abogados-*.gif$image
+||www.quadratin.com.mx/www/wp-content/uploads/2019/11/balnearios*.png$image
+||wwww.quadratin.com.mx/www/wp-content/uploads/2020/04/Quadratn-UNLA-abril-cambio.jpg$image
+www.quadratin.com.mx##[href="http://www.noticiasmvs.com/#!/home"]
+
+! 10/4/2020 http://fanfox.net
+||static.mangazoneapp.com/v201812291704/mangazone/images/pop/2.png$image
+fanfox.net##.lb-win-con
+fanfox.net###edShow
+||static.fanfox.net/v201906282/mangafox/images/1530780123.png$image
+
+! 13/4/2020 http://fanfox.net
+||static.fanfox.net/v201906282/mangafox/images/index-code.png$image
+
+! 2/5/2020 https://www.meteored.mx
+www.meteored.mx##.der-1.creatividad
+
+! 18/5/2020 https://www.mimorelia.com
+||www.mimorelia.com/wp-content/uploads/2015/12/14/banner_ArribaMorelia_300.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_sky300x130.jpg$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/banner_cubrebocas.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/mimorelia_covid19*.jpg$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner-QuedateEnCasa_MiMorelia700x90.gif$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/300-x-130.jpg$image
+
+! 28/5/2020 https://www.record.com.mx
+||www.record.com.mx/sites/default/files/widgetoptahome/wop_1585945498.jpg$image
+
+! 28/5/2020 https://www.mimorelia.com
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_Peugeot300x130.jpg$image
+||www.mimorelia.com/wp-content/uploads/2015/12/14/Banner_ecuador_Mimorelia.com_.jpg*.jpg$image
+
+! 28/5/2020 http://m.fanfox.net
+||s.fanfox.net/store/mfbanners/mb.home_1482305046.jpg?token=dd43f9f8de398216d15fae3ca7dab0c832674bb3&ttl=1590796800&v=1482305046$image
+
+! 1/6/2020 http://m.fanfox.net
+||s.fanfox.net/store/mfbanners/mb.home_1482305046.jpg?token=996f2e1cb727ce90c1c02bbdf1ab641f39aaacf8&ttl=1591120800&v=1482305046$image
+
+! 11/6/2020 http://m.fanfox.net
+||s.fanfox.net/store/mfbanners/mb.home_1482305046.jpg?token=6955f594bd0837ef097d3a12883523cf025b385a&ttl=1591999200&v=1482305046$image
 
