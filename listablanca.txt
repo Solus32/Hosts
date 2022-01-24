@@ -1,10 +1,14 @@
 amzn.to # url shortener
 linktr.ee # url shortener
+bitly.com # url shortener
+shorturl.at # url shortener
+free-url-shortener.rb.gy # url shortener
 app.adjust.com # url shortener
 codeload.github.com # github repo zip download
 e1151.e12.akamaiedge.net # unbreak anandtech.com
 geni.us # url shortener
 nyaa.si
+rb.gy # url shortener
 bit.ly # url shortener
 shorturl.at # url shortener
 bit.do # url shortener
