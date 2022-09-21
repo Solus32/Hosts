@@ -19,6 +19,7 @@ git.io
 raw.githubusercontent.com
 tc.tradetracker.net
 facebook.com
+www.facebook.com
 es-la.facebook.com
 google.com
 google.com.mx
