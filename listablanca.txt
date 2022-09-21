@@ -18,3 +18,8 @@ s.click.aliexpress.com # fix aliexpress
 git.io
 raw.githubusercontent.com
 tc.tradetracker.net
+facebook.com
+es-la.facebook.com
+google.com
+google.com.mx
+github.com
