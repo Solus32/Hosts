@@ -29,8 +29,6 @@
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 0.0.0.0 assoc-amazon.com
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 hotjar.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 api-hotjar.com
@@ -117,4 +115,3 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 s-adzone.com
 0.0.0.0 tinypass.com
-0.0.0.0 google-analytics.com
