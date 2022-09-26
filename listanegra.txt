@@ -112,3 +112,9 @@
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 teads.tv
+0.0.0.0 cleverads.vn
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 s-adzone.com
+0.0.0.0 tinypass.com
+0.0.0.0 google-analytics.com
