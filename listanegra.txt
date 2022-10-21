@@ -114,4 +114,5 @@
 0.0.0.0 cleverads.vn
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 s-adzone.com
+0.0.0.0 ad.plus
 0.0.0.0 tinypass.com
