@@ -117,6 +117,11 @@
 0.0.0.0 ad.plus
 0.0.0.0 syndication.realsrv.com
 0.0.0.0 realsrv.com
+0.0.0.0 adsafeprotected.com
+0.0.0.0 moatads.com
+0.0.0.0 trackcmp.net
+0.0.0.0 taboola.com
+0.0.0.0 permutive.com
 # Paywall
 0.0.0.0 tinypass.com
 0.0.0.0 mediapass.com
