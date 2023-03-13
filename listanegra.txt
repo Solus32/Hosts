@@ -147,3 +147,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 poool.fr
 0.0.0.0 qiota.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 
